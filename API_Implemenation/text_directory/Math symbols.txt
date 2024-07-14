@@ -1,0 +1,8 @@
+1.Addition(+)
+2.Division(x/y)
+3.Equal(=)
+4.Greater(>)
+5.Lesser(<)
+6.Multiplication(*)
+7.Percentage(%)
+8.Subtraction(-)

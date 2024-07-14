@@ -1,0 +1,58 @@
+1.Antler
+2.Ants
+3.Bat
+4.Blue Whale
+5.Buffalo
+6.Butterfly
+7.camel
+8.cat
+9.cockroach
+10.cow
+11.crab
+12.crocodile
+13.Deer
+14.Dinasaur
+15.Dog
+16.Dolphin
+17.Donkey
+18.Duck
+19.Elephant
+20.fox
+21.frog
+22.giraffe
+23.Gorilla
+24.Hedgehog
+25.Hippo
+26.honey bee
+27.Hourse
+28.house fly
+29.Jellyfish
+30.Kangaroo
+31.lion
+32.lionfish
+33.monkey
+34.Mosquito
+35.Octopus
+36.Ostrich
+37.Owl
+38.Panda
+39.Parrot
+40.Peacock
+41.Penguin
+42.Pig
+43.Pigeon
+44.polar bear
+45.Rabbit
+46.Rhino
+47.Scorpion
+48.Sea Trutle
+49.Seahorse
+50.Seal
+51.Sheep
+52.snail
+53.Snake
+54.Spider
+55.Squirrel
+56.Starfish
+57.Tortoise
+58.zebra

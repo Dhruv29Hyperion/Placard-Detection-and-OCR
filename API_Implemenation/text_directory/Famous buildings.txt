@@ -1,0 +1,10 @@
+1.Big Ben
+2.Burj Khalifa
+3.Colosseum
+4.Eiffel Tower
+5.Leaning Tower of Pisa
+6.London Bridge
+7.Pyramids
+8.Statue of Liberty
+9.Sydney Opera House
+10.Taj Mahal

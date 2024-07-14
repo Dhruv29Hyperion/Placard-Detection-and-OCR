@@ -1,0 +1,7 @@
+1.Apple
+2.Egg
+3.Mango
+4.Milk
+5.Onion
+6.Orange
+7.Water
